@@ -20,7 +20,7 @@ function App() {
         <Route path="/primeira-vista" element={<PrimeiraVistaPage />} />
         <Route path="/primeiro-beijo" element={<PrimeiroBeijoPage />} />
         <Route
-          path="/primeiro-aniversário"
+          path="/primeiro-aniversario"
           element={<PrimeiroAniversarioPage />}
         />
         <Route path="/casa-do-senhor" element={<CasaDoSenhorPage />} />
